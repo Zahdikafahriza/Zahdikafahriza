@@ -1,18 +1,230 @@
-# 💫 About Me:
-<br>NOC · Junior Web Developer | Bekasi, Indonesia<br>Zahdika Fahriza<br>Monitoring Networks. Building Systems. Learning Security.<br><br>Mahasiswa Informatika dan Network Operations Center (NOC) yang berfokus pada monitoring jaringan FTTH, troubleshooting OLT/ONU, pengelolaan layanan internet, serta pengembangan aplikasi web menggunakan PHP, Laravel, dan MySQL. Saat ini aktif memperdalam Network Engineering, AI Automation, dan Cyber Security.
+<div align="center">
 
+# 👋 Hi, I'm Zahdika Fahriza
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zahdikafahriza&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Zahdikafahriza&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zahdikafahriza&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Informatics+Student;Fullstack+Web+Developer;Network+Engineering+Enthusiast;Docker+%7C+n8n+%7C+Laravel+Developer" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br>
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20Learning-00ff88?style=for-the-badge&logo=github" />
+
+</div>
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zahdikafahriza&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🖥️ About Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎓 Education
+Informatics Student  
+Universitas Bina Insani
+
+</td>
+
+<td width="50%">
+
+### 💻 Role
+Web Developer  
+Network Engineering Enthusiast
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Specialty
+Laravel • Docker • Automation
+
+</td>
+
+<td width="50%">
+
+### 🌎 Focus
+Backend Development  
+Infrastructure System
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📚 Currently Learning
+Cloud Computing  
+Cyber Security
+
+</td>
+
+<td width="50%">
+
+### 🚀 Fun Fact
+I love building systems  
+and automating workflows
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+---
+
+# ⚙️ Tech Stack
+
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,html,css" />
+</p>
+
+
+## 🚀 Framework & Library
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind" />
+</p>
+
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+
+## 🐳 Infrastructure & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+</p>
+
+
+## 🌐 Networking
+
+```
+MikroTik
+PPPoE
+VPN
+Routing
+Network Monitoring
+Automation
+```
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 📦 Inventory Management System
+
+Inventory management web application built with:
+
+```
+Laravel
+MySQL
+Docker
+n8n Workflow Automation
+```
+
+Repository:
+
+https://github.com/Zahdikafahriza/inventory_management
+
+
+---
+
+## 🤖 Automation Workflow System
+
+Building automation workflow using:
+
+```
+n8n
+AI Agent
+MySQL Integration
+API Automation
+```
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zahdikafahriza&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahdikafahriza&layout=compact&theme=github_dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahdikafahriza&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+
+---
+
+# 🧠 Developer Quote
+
+
+> "Great systems are built by continuously learning, testing, and improving."
+
+
+---
+
+# 📈 Contribution Graph
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahdikafahriza&theme=github-dark&hide_border=true" />
+
+</div>
+
+
+---
+
+# 📫 Connect With Me
+
+
+<div align="center">
+
+<a href="https://github.com/Zahdikafahriza">
+<img src="https://img.shields.io/badge/GitHub-Zahdikafahriza-black?style=for-the-badge&logo=github">
+</a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Zahdikafahriza&style=for-the-badge&color=blue">
+
+<br>
+
+⭐ Thanks for visiting my profile
+
+</div>
