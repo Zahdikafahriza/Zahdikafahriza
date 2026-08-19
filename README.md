@@ -89,9 +89,10 @@ End-to-end automation pipeline combining:
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zahdikafahriza&theme=github-dark-blue&hide_border=true" />
-
+<img
+  width="80%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Zahdikafahriza&theme=github-dark-blue&hide_border=true"
+/>
 </div>
 
 <br>
