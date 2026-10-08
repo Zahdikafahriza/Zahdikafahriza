@@ -97,18 +97,18 @@ End-to-end automation pipeline combining:
 
 <br>
 
-## 📈 GitHub Activity
+## 📈 GitHub Overview
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Zahdikafahriza&theme=github-dark&hide_border=true"
-  alt="GitHub Activity Graph"
+  width="80%"
+  src="https://github-readme-stats.vercel.app/api?username=Zahdikafahriza&show_icons=true&theme=github_dark&hide_border=true"
+  alt="GitHub Contributions"
 />
 
 </div>
 
-<br>
 <br>
 
 ## 🧠 Developer Quote
